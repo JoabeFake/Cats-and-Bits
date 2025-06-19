@@ -1,0 +1,1 @@
+global.wire_start = noone;
