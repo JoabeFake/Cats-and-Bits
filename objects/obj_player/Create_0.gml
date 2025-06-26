@@ -1,6 +1,10 @@
-event_inherited();
+x_speed = 0
+y_speed = 0
 
-debug = false;
+spd = 3;
+int_radius = 21;
+
+held_obj = noone;
 
 inputs = {
 	right: ord("D"),
@@ -10,5 +14,3 @@ inputs = {
 	
 	grab: vk_space
 }
-
-interaction_radius = 20 * image_xscale;

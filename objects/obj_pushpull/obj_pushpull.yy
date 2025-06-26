@@ -10,8 +10,8 @@
   "name":"obj_pushpull",
   "overriddenProperties":[],
   "parent":{
-    "name":"parents",
-    "path":"folders/Objetos/parents.yy",
+    "name":"Parents",
+    "path":"folders/Objetos/Parents.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,11 +29,10 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"collision_type","filters":[],"listItems":[
-        "\"circle\"",
         "\"rectangle\"",
-      ],"multiselect":false,"name":"collision_type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"circle\"","varType":6,},
+        "\"circle\"",
+      ],"multiselect":false,"name":"collision_type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"rectangle\"","varType":6,},
     {"$GMObjectProperty":"v1","%Name":"collision_buffer","filters":[],"listItems":[],"multiselect":false,"name":"collision_buffer","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"debug","filters":[],"listItems":[],"multiselect":false,"name":"debug","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
