@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_led",
-    "path":"sprites/spr_led/spr_led.yy",
+    "name":"led",
+    "path":"sprites/led/led.yy",
   },
   "spriteMaskId":null,
   "visible":true,

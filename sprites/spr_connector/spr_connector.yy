@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_connector",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":19,
   "bbox_left":12,
   "bbox_right":19,
@@ -19,7 +19,7 @@
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"fdc78756-a22a-451e-9825-6cf647dad770","blendMode":0,"displayName":"default","isLocked":false,"name":"fdc78756-a22a-451e-9825-6cf647dad770","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"fdc78756-a22a-451e-9825-6cf647dad770","blendMode":0,"displayName":"default","isLocked":false,"name":"fdc78756-a22a-451e-9825-6cf647dad770","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
   ],
   "name":"spr_connector",
   "nineSlice":null,
