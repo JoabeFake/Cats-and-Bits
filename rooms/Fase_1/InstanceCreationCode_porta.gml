@@ -1,5 +1,5 @@
-objetos = [button1, luz1, botao2];
-estado_desejado = [true, false, true];
+objetos = [luz1];
+estado_desejado = [true];
 
 offset_x = 0;
 offset_y = -64;

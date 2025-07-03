@@ -7,8 +7,20 @@ var tela_y = camera_get_view_y(view_camera[0]);
 var porta_gui_x = x - tela_x;
 var porta_gui_y = y - tela_y;
 
+var espaco = 12;
+var escala = 0.3;
+
+var total = array_length(objetos);
+var largura_total = (total - 1) * espaco;
+
 // Posição base de onde os ícones vão ser desenhados
-var icon_x = porta_gui_x - (array_length(objetos) * 10); //30 + 20; //20 + 20; //10 + 20
+
+if(total % 2 == 1){
+	var icon_x = porta_gui_x - (largura_total / 2) + 2;
+}else{
+	var icon_x = porta_gui_x - (largura_total / 2);
+}
+
 var icon_y = porta_gui_y - 40; // Acima da porta
 
 for (var i = 0; i < array_length(objetos); i++) {
@@ -31,7 +43,7 @@ for (var i = 0; i < array_length(objetos); i++) {
     }
 
     // Desenha sprite pequeno (16x16 por exemplo)
-    draw_sprite_ext(sprite, subimg, icon_x + (i * 10), icon_y, 0.3, 0.3, 0, c_white, 1);
+    draw_sprite_ext(sprite, subimg, icon_x + (i * 10), icon_y, escala, escala, 0, c_white, 1);
 }
 
 draw_set_alpha(1); // Resetar alpha

@@ -58,7 +58,6 @@
     {"id":{"name":"obj_slot","path":"objects/obj_slot/obj_slot.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_wire","path":"objects/obj_wire/obj_wire.yy",},},
-    {"id":{"name":"asdasdasdas","path":"rooms/asdasdasdas/asdasdasdas.yy",},},
     {"id":{"name":"Debug_Room1","path":"rooms/Debug_Room1/Debug_Room1.yy",},},
     {"id":{"name":"Debug_Room2","path":"rooms/Debug_Room2/Debug_Room2.yy",},},
     {"id":{"name":"Debug_Room3","path":"rooms/Debug_Room3/Debug_Room3.yy",},},
@@ -97,7 +96,6 @@
     {"roomId":{"name":"Debug_Room2","path":"rooms/Debug_Room2/Debug_Room2.yy",},},
     {"roomId":{"name":"Debug_Room3","path":"rooms/Debug_Room3/Debug_Room3.yy",},},
     {"roomId":{"name":"Debug_Room1","path":"rooms/Debug_Room1/Debug_Room1.yy",},},
-    {"roomId":{"name":"asdasdasdas","path":"rooms/asdasdasdas/asdasdasdas.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
