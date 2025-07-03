@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"Projeto Extensão 2 V2",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -17,6 +17,7 @@
     {"$GMFolder":"","%Name":"Curvas da animação","folderPath":"folders/Curvas da animação.yy","name":"Curvas da animação","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensões","folderPath":"folders/Extensões.yy","name":"Extensões","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fontes","folderPath":"folders/Fontes.yy","name":"Fontes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Menu","folderPath":"folders/Menu.yy","name":"Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Linhas do tempo","folderPath":"folders/Linhas do tempo.yy","name":"Linhas do tempo","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Org. Comp. Obj","folderPath":"folders/Objetos/Org. Comp. Obj.yy","name":"Org. Comp. Obj","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,11 +35,12 @@
     {"$GMFolder":"","%Name":"Portas Lógicas","folderPath":"folders/Sprites/Org. Comp. Spr/Portas Lógicas.yy","name":"Portas Lógicas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Solids","folderPath":"folders/Sprites/Solids.yy","name":"Solids","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"Projeto Extensão 2 V2",
   "resources":[
@@ -59,6 +61,7 @@
     {"id":{"name":"Debug_Room1","path":"rooms/Debug_Room1/Debug_Room1.yy",},},
     {"id":{"name":"Debug_Room2","path":"rooms/Debug_Room2/Debug_Room2.yy",},},
     {"id":{"name":"Debug_Room3","path":"rooms/Debug_Room3/Debug_Room3.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"scr_collision","path":"scripts/scr_collision/scr_collision.yy",},},
     {"id":{"name":"set_wire_directions_8dir","path":"scripts/set_wire_directions_8dir/set_wire_directions_8dir.yy",},},
     {"id":{"name":"set_wire_directions","path":"scripts/set_wire_directions/set_wire_directions.yy",},},
@@ -91,6 +94,7 @@
     {"roomId":{"name":"Debug_Room2","path":"rooms/Debug_Room2/Debug_Room2.yy",},},
     {"roomId":{"name":"Debug_Room3","path":"rooms/Debug_Room3/Debug_Room3.yy",},},
     {"roomId":{"name":"Debug_Room1","path":"rooms/Debug_Room1/Debug_Room1.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
