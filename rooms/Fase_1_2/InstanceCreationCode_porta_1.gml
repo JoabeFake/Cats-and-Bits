@@ -1,8 +1,8 @@
-objetos = [botao2];
+objetos = [luz1_1];
 estado_desejado = [true];
 
-offset_x = 64;
-offset_y = 0;
+offset_x = 0;
+offset_y = -64;
 
 usar_timer = false;
 tempo_aberta = 60;

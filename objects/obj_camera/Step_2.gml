@@ -10,5 +10,10 @@ if(instance_exists(view_target)){
 	var cam_x = camera_get_view_x(view_camera[0]);
 	var cam_y = camera_get_view_y(view_camera[0]);
 	
-	camera_set_view_pos(view_camera[0], lerp(cam_x, x1, view_spd), lerp(cam_y, y1, view_spd));
+	if(snap_to_player){
+		snap_to_player = false;
+		camera_set_view_pos(view_camera[0], x1, y1);
+	}else{
+		camera_set_view_pos(view_camera[0], lerp(cam_x, x1, view_spd), lerp(cam_y, y1, view_spd));
+	}
 }
