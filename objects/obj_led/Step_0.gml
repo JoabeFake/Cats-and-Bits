@@ -1,4 +1,6 @@
-if(connector_in.signal){
+signal = connector_in.signal;
+
+if(signal){
 	image_index = 0;
 }else{
 	image_index = 1;
