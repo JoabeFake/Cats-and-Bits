@@ -1,5 +1,6 @@
 paused = false;
 layer_name = "PauseLayer";
+//layer_set_visible("PauseLayer", 0);
 
 update_pause = function(){
 	if(paused){

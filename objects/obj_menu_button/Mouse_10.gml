@@ -1,1 +1,1 @@
-image_alpha = 0.5;
+xscale = esc_x_original * 1.3;
