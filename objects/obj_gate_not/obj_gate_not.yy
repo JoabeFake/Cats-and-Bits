@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"not",
-    "path":"sprites/not/not.yy",
+    "name":"spr_gate_not",
+    "path":"sprites/spr_gate_not/spr_gate_not.yy",
   },
   "spriteMaskId":null,
   "visible":true,

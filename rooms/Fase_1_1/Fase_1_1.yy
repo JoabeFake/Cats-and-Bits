@@ -90,7 +90,7 @@
   "roomSettings":{
     "Height":368,
     "inheritRoomSettings":false,
-    "persistent":true,
+    "persistent":false,
     "Width":640,
   },
   "sequenceId":null,
@@ -107,7 +107,7 @@
   "viewSettings":{
     "clearDisplayBuffer":true,
     "clearViewBackground":false,
-    "enableViews":false,
+    "enableViews":true,
     "inheritViewSettings":false,
   },
   "volume":1.0,

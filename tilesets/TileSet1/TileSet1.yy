@@ -17,10 +17,7 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":{
-    "name":"wall",
-    "path":"sprites/wall/wall.yy",
-  },
+  "spriteId":null,
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",

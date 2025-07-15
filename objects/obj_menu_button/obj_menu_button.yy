@@ -30,7 +30,6 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"button_id","filters":[],"listItems":[],"multiselect":false,"name":"button_id","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"texto","filters":[],"listItems":[],"multiselect":false,"name":"texto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"TEXTO","varType":2,},
     {"$GMObjectProperty":"v1","%Name":"fonte","filters":[
         "GMFont",

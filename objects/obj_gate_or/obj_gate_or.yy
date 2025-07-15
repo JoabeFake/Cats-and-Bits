@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"or",
-    "path":"sprites/or/or.yy",
+    "name":"spr_gate_or",
+    "path":"sprites/spr_gate_or/spr_gate_or.yy",
   },
   "spriteMaskId":null,
   "visible":true,
