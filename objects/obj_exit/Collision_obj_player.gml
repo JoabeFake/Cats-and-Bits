@@ -1,4 +1,4 @@
- room_goto(target_room);
-other.x = target_x;
-other.y = target_y;
-obj_camera.snap_to_player = true;
+room_goto(target_room);
+instance_deactivate_object(obj_player);
+instance_deactivate_object(obj_camera2);
+instance_deactivate_object(obj_pause_manager);
