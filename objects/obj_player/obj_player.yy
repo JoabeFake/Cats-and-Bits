@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Cat",
-    "path":"sprites/Cat/Cat.yy",
+    "name":"spr_player",
+    "path":"sprites/spr_player/spr_player.yy",
   },
   "spriteMaskId":null,
   "visible":true,
