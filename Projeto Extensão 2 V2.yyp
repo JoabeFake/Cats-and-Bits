@@ -100,6 +100,7 @@
     {"id":{"name":"laco","path":"sprites/laco/laco.yy",},},
     {"id":{"name":"new_game","path":"sprites/new_game/new_game.yy",},},
     {"id":{"name":"nomes","path":"sprites/nomes/nomes.yy",},},
+    {"id":{"name":"nomes2","path":"sprites/nomes2/nomes2.yy",},},
     {"id":{"name":"nuvem","path":"sprites/nuvem/nuvem.yy",},},
     {"id":{"name":"obrigado","path":"sprites/obrigado/obrigado.yy",},},
     {"id":{"name":"quit","path":"sprites/quit/quit.yy",},},
