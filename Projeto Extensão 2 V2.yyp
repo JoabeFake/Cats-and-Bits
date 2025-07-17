@@ -60,7 +60,7 @@
     {"id":{"name":"game_new","path":"objects/game_new/game_new.yy",},},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
-    {"id":{"name":"obj_camera2","path":"objects/obj_camera2/obj_camera2.yy",},},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_circuit_manager","path":"objects/obj_circuit_manager/obj_circuit_manager.yy",},},
     {"id":{"name":"obj_connector","path":"objects/obj_connector/obj_connector.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
