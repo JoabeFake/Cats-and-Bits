@@ -1,0 +1,1 @@
+draw_text(35,12,"SCORE")

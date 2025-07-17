@@ -1,0 +1,1 @@
+draw_text(570,12,"TIME")
