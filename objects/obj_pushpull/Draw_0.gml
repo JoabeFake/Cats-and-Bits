@@ -1,5 +1,6 @@
 draw_self()
 
+
 //draw_set_color(c_lime);
 	
 //	switch(string_lower(collision_type)) {
