@@ -4,8 +4,19 @@ var deve_abrir = porta_deve_abrir();
 if(deve_abrir && !porta_aberta){
 	porta_aberta = true;
 	
-	x = pos_original_x + offset_x;
-	y = pos_original_y + offset_y;
+	switch(dir){
+		case "up":
+			x = pos_original_x;
+			y = pos_original_y - sprite_height;
+			break;
+		case "left":
+			x = pos_original_x - sprite_height;
+			y = pos_original_y;
+			break;
+		case "right":
+			x = pos_original_x + sprite_height;
+			y = pos_original_y;
+	}
 	
 	if(usar_timer){
 		contador_timer = tempo_aberta;

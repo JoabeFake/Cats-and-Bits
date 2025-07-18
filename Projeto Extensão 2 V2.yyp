@@ -14,6 +14,7 @@
     {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cenas","folderPath":"folders/Cenas.yy","name":"Cenas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fase 1","folderPath":"folders/Cenas/Fase 1.yy","name":"Fase 1","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Fase_Tutorial","folderPath":"folders/Cenas/Fase_Tutorial.yy","name":"Fase_Tutorial","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Conjuntos de tiles","folderPath":"folders/Conjuntos de tiles.yy","name":"Conjuntos de tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Curvas da animação","folderPath":"folders/Curvas da animação.yy","name":"Curvas da animação","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensões","folderPath":"folders/Extensões.yy","name":"Extensões","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -88,6 +89,7 @@
     {"id":{"name":"Fase_1_3","path":"rooms/Fase_1_3/Fase_1_3.yy",},},
     {"id":{"name":"menu_1","path":"rooms/menu_1/menu_1.yy",},},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"id":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
     {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"scr_collision","path":"scripts/scr_collision/scr_collision.yy",},},
     {"id":{"name":"set_wire_directions_8dir","path":"scripts/set_wire_directions_8dir/set_wire_directions_8dir.yy",},},
@@ -134,7 +136,13 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+<<<<<<< Updated upstream
     {"roomId":{"name":"menu_1","path":"rooms/menu_1/menu_1.yy",},},
+=======
+    {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
+    {"roomId":{"name":"Debug_Room4","path":"rooms/Debug_Room4/Debug_Room4.yy",},},
+>>>>>>> Stashed changes
     {"roomId":{"name":"Fase_1_1","path":"rooms/Fase_1_1/Fase_1_1.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"roomId":{"name":"Fase_1_3","path":"rooms/Fase_1_3/Fase_1_3.yy",},},

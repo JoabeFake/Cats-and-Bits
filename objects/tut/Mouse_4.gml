@@ -1,1 +1,1 @@
-room=Debug_Room2
+room_goto(Tutorial)
