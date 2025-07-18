@@ -145,14 +145,14 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Fase_4_1","path":"rooms/Fase_4_1/Fase_4_1.yy",},},
+    {"roomId":{"name":"Fase_1_1","path":"rooms/Fase_1_1/Fase_1_1.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"roomId":{"name":"Debug_Room4","path":"rooms/Debug_Room4/Debug_Room4.yy",},},
-    {"roomId":{"name":"Fase_1_1","path":"rooms/Fase_1_1/Fase_1_1.yy",},},
     {"roomId":{"name":"Debug_Room2","path":"rooms/Debug_Room2/Debug_Room2.yy",},},
     {"roomId":{"name":"Debug_Room3","path":"rooms/Debug_Room3/Debug_Room3.yy",},},
     {"roomId":{"name":"Debug_Room1","path":"rooms/Debug_Room1/Debug_Room1.yy",},},
     {"roomId":{"name":"creds","path":"rooms/creds/creds.yy",},},
-    {"roomId":{"name":"Fase_4_1","path":"rooms/Fase_4_1/Fase_4_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
