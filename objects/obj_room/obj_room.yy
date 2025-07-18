@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_camera",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_room",
+  "eventList":[],
   "managed":true,
-  "name":"obj_camera",
+  "name":"obj_room",
   "overriddenProperties":[],
   "parent":{
     "name":"Parents",
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_room",
+    "path":"sprites/spr_room/spr_room.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

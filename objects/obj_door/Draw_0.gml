@@ -18,9 +18,6 @@ if(usar_timer){
     }
 }
 
-<<<<<<< Updated upstream
-//draw_text(x, y - sprite_height, string(contador_timer / 60) + " segundos");
-=======
 if (array_length(objetos) > 0) {
     var offset = 10; // espaçamento entre ícones
     var scale = 0.5;
@@ -103,4 +100,3 @@ if (array_length(objetos) > 0) {
 //}
 
 ////draw_text(x, y - sprite_height, string(contador_timer / 60) + " segundos");
->>>>>>> Stashed changes
