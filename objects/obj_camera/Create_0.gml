@@ -1,16 +1,21 @@
-resolution_width = 1280;
-resolution_height = 720;
-resolution_scale = 2;
+//Alvo
+global.cam_alvo = obj_player;
 
-global.view_width = resolution_width / resolution_scale;
-global.view_height = resolution_height / resolution_scale;
+//Tamanho da Camera
+global.cam_w = camera_get_view_width(view_camera[0]);
+global.cam_h = camera_get_view_height(view_camera[0]);
 
-view_target = obj_player;
-view_spd = 0.2;
+//Posicao
+global.cam_x = global.cam_alvo.x;
+global.cam_y = global.cam_alvo.y;
 
-snap_to_player = false;
+//Limitando a Visão
+global.cam_x_min = 0;
+global.cam_x_max = room_width - global.cam_w;
+global.cam_y_min = 0;
+global.cam_y_max = room_height - global.cam_h;
 
-window_set_size(global.view_width * resolution_scale, global.view_height * resolution_scale);
-surface_resize(application_surface, global.view_width * resolution_scale, global.view_height * resolution_scale)
-display_set_gui_size(global.view_width, global.view_height);
-alarm[0] = 1;
+cam_x_min_lerp = 0;
+cam_x_max_lerp = room_width - global.cam_w;
+cam_y_min_lerp = 0;
+cam_y_max_lerp = room_height - global.cam_h;

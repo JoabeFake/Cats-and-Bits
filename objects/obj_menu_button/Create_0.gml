@@ -2,7 +2,7 @@ esc_x_original = image_xscale;
 esc_y_original = image_yscale;
 
 esc_text_x = 1;
-esc_text_y = 1
+esc_text_y = 1;
 
 xscale = esc_x_original;
 yscale = esc_y_original;
