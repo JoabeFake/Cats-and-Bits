@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:rooms/Fase_1/InstanceCreationCode_porta.gml
-objetos = [luz1];
-========
-objetos = [led2];
->>>>>>>> origin/Camera_and_Fase4_Rework:rooms/Fase_5/InstanceCreationCode_porta2.gml
+objetos = [led1_fase5];
 estado_desejado = [true];
 
 offset_x = 0;
