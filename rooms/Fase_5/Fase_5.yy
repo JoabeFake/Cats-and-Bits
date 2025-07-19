@@ -31,6 +31,9 @@
     {"name":"inst_2E7FCC0D","path":"rooms/Fase_5/Fase_5.yy",},
     {"name":"inst_241C346B","path":"rooms/Fase_5/Fase_5.yy",},
     {"name":"inst_3EEAA465","path":"rooms/Fase_5/Fase_5.yy",},
+    {"name":"inst_1144BF01","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_4ABB4BC","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_76F96901","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
