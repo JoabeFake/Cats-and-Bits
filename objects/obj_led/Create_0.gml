@@ -2,6 +2,12 @@ connector_in = instance_create_layer(x - 16, y, "Gates", obj_connector);
 connector_in.is_input = true;
 connector_in.owner = id;
 
+light = instance_create_layer(x, y, "Light_System", obj_uls_light);
+
+uls_set_light_color(light, c_yellow);
+uls_set_light_range(light, 250);
+uls_set_light_alpha(light, 0);
+
 signal = false;
 
 attached = [];

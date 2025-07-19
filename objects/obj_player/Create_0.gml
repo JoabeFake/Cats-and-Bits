@@ -14,3 +14,13 @@ inputs = {
 	
 	grab: vk_space
 }
+
+attached = [];
+
+add_attached = function (_inst){
+	array_push(attached, {
+		inst: _inst,
+		len: point_distance(x, y, _inst.x, _inst.y),
+		dir: point_direction(x, y, _inst.x, _inst.y)
+	})	
+}

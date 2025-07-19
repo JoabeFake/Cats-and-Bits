@@ -1,1 +1,1 @@
-room_goto(Fase_1_1);
+room_goto(Fase_1);

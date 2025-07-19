@@ -7,7 +7,9 @@
   ],
   "managed":true,
   "name":"obj_gate_and",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_uls_collider","path":"objects/obj_uls_collider/obj_uls_collider.yy",},"propertyId":{"name":"z_height","path":"objects/obj_uls_collider/obj_uls_collider.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.1",},
+  ],
   "parent":{
     "name":"Portas Lógicas",
     "path":"folders/Objetos/Org. Comp. Obj/Portas Lógicas.yy",
