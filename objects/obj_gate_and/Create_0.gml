@@ -7,6 +7,8 @@ connector_out = instance_create_layer(x + 16, y, "Gates", obj_connector);
 connector_out.is_input = false;
 connector_out.owner = id;
 
+uls_collider_define_shape_custom(-9, -6, -14, -6, -14, -14, 2, -14, 9, -7, 14, -6, 14, 6, 9, 6, 2, 14, -14, 14, -14, 6, -9, 6);
+
 attached = [];
 
 add_attached = function (_inst){

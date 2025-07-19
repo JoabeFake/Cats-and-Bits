@@ -1,4 +1,4 @@
-objetos = [luz1_1];
+objetos = [luz1];
 estado_desejado = [true];
 
 offset_x = 0;
