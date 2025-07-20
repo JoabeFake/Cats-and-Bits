@@ -2,9 +2,10 @@ x_speed = 0
 y_speed = 0
 
 spd = 3;
-int_radius = 21;
+interaction_radius = 21;
 
-held_obj = noone;
+holding_obj = noone;
+is_carrying = false;
 
 inputs = {
 	right: ord("D"),

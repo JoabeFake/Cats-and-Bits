@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Attachment_Controller",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Attachment_Controller",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
