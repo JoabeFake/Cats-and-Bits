@@ -4,12 +4,17 @@
   "eventList":[],
   "managed":true,
   "name":"obj_wall",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_uls_collider","path":"objects/obj_uls_collider/obj_uls_collider.yy",},"propertyId":{"name":"z_height","path":"objects/obj_uls_collider/obj_uls_collider.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.9",},
+  ],
   "parent":{
     "name":"Solids",
     "path":"folders/Objetos/Solids.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_uls_collider",
+    "path":"objects/obj_uls_collider/obj_uls_collider.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

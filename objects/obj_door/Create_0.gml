@@ -1,3 +1,4 @@
+event_inherited();
 objetos = []; //objetos que podem ativar a porta
 estado_desejado = []; //estados que os objetos devem estar para abrir a porta
 porta_aberta = false;

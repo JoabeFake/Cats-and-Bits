@@ -8,10 +8,12 @@
   ],
   "managed":true,
   "name":"obj_door",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_uls_collider","path":"objects/obj_uls_collider/obj_uls_collider.yy",},"propertyId":{"name":"z_height","path":"objects/obj_uls_collider/obj_uls_collider.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0",},
+  ],
   "parent":{
-    "name":"Org. Comp. Obj",
-    "path":"folders/Objetos/Org. Comp. Obj.yy",
+    "name":"Solids",
+    "path":"folders/Objetos/Solids.yy",
   },
   "parentObjectId":{
     "name":"obj_wall",
