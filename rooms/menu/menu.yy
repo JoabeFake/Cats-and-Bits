@@ -11,10 +11,10 @@
     {"name":"inst_27C2F3E3_1","path":"rooms/menu/menu.yy",},
     {"name":"inst_40D3021A_1","path":"rooms/menu/menu.yy",},
     {"name":"inst_7858856D_1","path":"rooms/menu/menu.yy",},
+    {"name":"inst_7D4411EB","path":"rooms/menu/menu.yy",},
     {"name":"inst_1144BF01","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_4ABB4BC","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_76F96901","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_7D4411EB","path":"rooms/menu/menu.yy",},
   ],
   "isDnd":false,
   "layers":[
