@@ -1,10 +1,14 @@
 signal = connector_in.signal;
 
 if(signal){
-	uls_set_light_alpha(light, 0.7);
+	if(has_light){
+		uls_set_light_alpha(light, 0.7);
+	}
 	image_index = 0;
 }else{
-	uls_set_light_alpha(light, 0);
+	if(has_light){
+		uls_set_light_alpha(light, 0);
+	}
 	image_index = 1;
 }
 
