@@ -1,0 +1,1 @@
+remove_object_from_slot();

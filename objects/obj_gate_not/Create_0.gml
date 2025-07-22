@@ -16,5 +16,8 @@ add_attached = function (_inst){
 	})	
 }
 
+was_rejected = false;
+rejected_from = noone;
+
 add_attached(connector_in);
 add_attached(connector_out);
