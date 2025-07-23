@@ -19,6 +19,9 @@ connector_out.owner = id;
 // Lista para armazenar os conectores anexados à porta
 attached = [];
 
+//Formato customizado para colisores de luz
+uls_collider_define_shape_custom(-11, -6, -14, -6, -14, -14, 2, -14, 9, -7, 14, -6, 14, 6, 12, 6, 2, 14, -14, 14, -14, 6, -11, 6);
+
 // Função para adicionar um conector à lista e calcular sua distância e direção
 add_attached = function (_inst) {
     array_push(attached, {

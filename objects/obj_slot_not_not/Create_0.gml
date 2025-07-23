@@ -20,7 +20,7 @@ function remove_object_from_slot() {
     if (obj_in_slot != noone) {
         // Dá um empurrão para o gate sair (opcional)
         if (variable_instance_exists(obj_in_slot.id, "speed")) {
-            
+            randomize();
             obj_in_slot.direction = random(360);
         }
 

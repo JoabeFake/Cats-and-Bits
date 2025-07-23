@@ -2,6 +2,8 @@ with(connector_in){
 	outro = instance_place(x, y, obj_connector)
 	if(outro != noone){
 		signal = outro.signal;
+	}else{
+		signal = false;
 	}
 }
 
@@ -13,6 +15,8 @@ with(connector_out){
 	outro = instance_place(x, y, obj_connector);
 	if(outro != noone){
 		outro.signal = signal;
+	}else{
+		signal = false;
 	}
 }
 

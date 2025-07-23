@@ -9,6 +9,9 @@ connector_in1.owner = id;
 connector_out.is_input = false;
 connector_out.owner = id;
 
+//Formato customizado para colisores de luz
+uls_collider_define_shape_custom(-11, -6, -14, -6, -14, -14, 2, -14, 9, -7, 14, -6, 14, 6, 12, 6, 2, 14, -14, 14, -14, 6, -11, 6);
+
 attached = [];
 
 add_attached = function (_inst){
