@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"SeletorDeFases",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/SeletorDeFases/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

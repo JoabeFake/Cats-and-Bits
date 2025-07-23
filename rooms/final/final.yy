@@ -9,6 +9,7 @@
     {"name":"inst_27C2F3E3_1_1","path":"rooms/final/final.yy",},
     {"name":"inst_40D3021A_1_1","path":"rooms/final/final.yy",},
     {"name":"inst_5FBEC17A","path":"rooms/final/final.yy",},
+    {"name":"inst_32213413","path":"rooms/final/final.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -16,6 +17,10 @@
         {"$GMRInstance":"v2","%Name":"inst_27C2F3E3_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_27C2F3E3_1_1","objectId":{"name":"sair","path":"objects/sair/sair.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":598.0,"y":624.0,},
         {"$GMRInstance":"v2","%Name":"inst_40D3021A_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_40D3021A_1_1","objectId":{"name":"cred","path":"objects/cred/cred.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":0.85714287,"x":546.0,"y":509.0,},
         {"$GMRInstance":"v2","%Name":"inst_5FBEC17A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5FBEC17A","objectId":{"name":"volt","path":"objects/volt/volt.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":572.0,"y":566.0,},
+        {"$GMRInstance":"v2","%Name":"inst_32213413","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32213413","objectId":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"propertyId":{"name":"musica2","path":"objects/obj_musica/obj_musica.yy",},"resource":{"name":"Pix__Alien_wolves","path":"sounds/Pix__Alien_wolves/Pix__Alien_wolves.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Pix__Alien_wolves",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_musica","path":"objects/obj_musica/obj_musica.yy",},"propertyId":{"name":"musica","path":"objects/obj_musica/obj_musica.yy",},"resource":{"name":"Trippy_Trip_Trop","path":"sounds/Trippy_Trip_Trop/Trippy_Trip_Trop.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Trippy_Trip_Trop",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":59.0,"y":42.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_2FEDC707","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2FEDC707","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2393049,"scaleY":1.028761,"spriteId":{"name":"vitoria","path":"sprites/vitoria/vitoria.yy",},"x":176.5,"y":0.0,},
