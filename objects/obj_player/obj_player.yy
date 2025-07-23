@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player",
-    "path":"sprites/spr_player/spr_player.yy",
+    "name":"Gato_Parado",
+    "path":"sprites/Gato_Parado/Gato_Parado.yy",
   },
   "spriteMaskId":null,
   "visible":true,

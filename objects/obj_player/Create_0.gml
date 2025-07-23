@@ -7,11 +7,15 @@ interaction_radius = 21;
 holding_obj = noone;
 is_carrying = false;
 
+state = PLAYERSTATE.idle;
+
 inputs = {
 	right: ord("D"),
 	left: ord("A"),
 	up: ord("W"),
 	down: ord("S"),
+	
+	emote: ord("F"),
 	
 	grab: vk_space
 }
