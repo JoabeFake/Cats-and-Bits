@@ -1,1 +1,1 @@
-target_room = menu;
+target_room = final;
