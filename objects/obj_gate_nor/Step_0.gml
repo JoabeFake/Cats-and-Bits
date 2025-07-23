@@ -14,3 +14,20 @@ array_foreach(attached, function(_item){
 	_item.inst.y = y + _y;
 	_item.inst.image_angle = image_angle;
 })
+
+if (was_rejected) {
+    if (instance_exists(rejected_from)) {
+        var dist = point_distance(x, y, rejected_from.x, rejected_from.y);
+        
+        if (dist > 32) {
+            speed = 0;
+            was_rejected = false;
+            rejected_from = noone;
+        }
+    } else {
+        // Caso o slot tenha sido destruído
+        speed = 0;
+        was_rejected = false;
+        rejected_from = noone;
+    }
+}

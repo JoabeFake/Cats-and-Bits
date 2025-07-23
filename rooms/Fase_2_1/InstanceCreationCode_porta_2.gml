@@ -1,4 +1,4 @@
-objetos = [fase4_led4];
+objetos = [luz1_2];
 estado_desejado = [true];
 
 offset_x = 0;

@@ -28,6 +28,9 @@ add_attached = function (_inst) {
     });
 }
 
+was_rejected = false;
+rejected_from = noone;
+
 // Adiciona os 3 conectores à lista
 add_attached(connector_in1);
 add_attached(connector_in2);
