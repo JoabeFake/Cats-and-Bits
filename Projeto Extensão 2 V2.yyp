@@ -69,6 +69,7 @@
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"Gata_Tom_FDP.jfif","CopyToMask":-1,"filePath":"datafiles","name":"Gata_Tom_FDP.jfif","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"m5x7.ttf","CopyToMask":-1,"filePath":"datafiles","name":"m5x7.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
